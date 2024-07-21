@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm a computer engineering student <br>Full-stack trainee 
+# 💫 About:
+A computer engineering student <br>Full-stack trainee 
 
 
 ## 🌐 Socials:

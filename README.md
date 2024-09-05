@@ -1,5 +1,5 @@
 # 💫 About:
-A computer engineering student <br>ASP.net trainee 
+A computer engineering student <br>.net trainee 
 
 
 ## 🌐 Socials:
